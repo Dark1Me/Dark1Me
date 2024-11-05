@@ -1,8 +1,8 @@
 # Raphael Diaz (Dark1Me)
 **Full-Stack Freelancer Developer | Back-End & Cybersecurity Specialist**  
 📍 São Paulo, SP, Brazil  
-📧 dark1me@proton.me | 📱 +55 (11) 91234-5678 | 💻 www.dark1me.dev  
-LinkedIn: [linkedin.com/in/dark1me](https://www.linkedin.com/in/dark1me) | GitHub: [github.com/dark1me](https://github.com/dark1me)
+📧 dark1me@proton.me
+GitHub: [github.com/dark1me](https://github.com/dark1me)
 
 ---
 
@@ -52,16 +52,5 @@ Worked as a freelancer building custom solutions for small and medium-sized busi
 
 ---
 
-### **Client Testimonials**
-
-_"Raphael delivered a highly efficient and secure back-end solution for our website. He went above and beyond to ensure our system was protected against vulnerabilities."_  
-– **Laura M.**, CEO, Online Store XYZ
-
-_"Working with Raphael was a fantastic experience! He has an incredible ability to translate technical challenges into clear and practical solutions. Highly recommended!"_  
-– **Marcos T.**, CTO, Startup ABC
-
----
-
 ### **How Can I Help Your Business?**
 If you need fast, secure, and scalable digital solutions, or if you're looking to improve the security of your existing systems, I’m here to help. Let’s talk about your project and how we can achieve your goals efficiently!
-
